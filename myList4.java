@@ -52,20 +52,3 @@ public class myList4 {
    }
 }
 
-/* class Animal { //Custom Class with attributes
-   public int age;
-   public String name; 
-   public String species; 
-   public Animal(){
-   }
-   public Animal(int myage, String myname, String myspecies){
-      this.age = myage;
-      this.name = myname;
-      this.species = myspecies;
-   }
-   public String toString() { //Overload toString 
-      return name + " the " + species + " is " + age + " years old.";
-   } */
-
-//}
-
