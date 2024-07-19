@@ -1,9 +1,4 @@
-//Dang-Uy Nguyen
-//Professor Carter
-//IS 247 
-//Programming Assignment: Sorting Inventory
 //Main Driver
-//December 11, 2022
 import java.util.*;
 public class SortItemList {
    public static void main(String[] args) {
