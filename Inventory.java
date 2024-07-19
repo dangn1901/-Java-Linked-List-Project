@@ -1,9 +1,4 @@
-//Dang-Uy Nguyen
-//Professor Carter
-//IS 247 
-//Programming Assignment: Sorting Inventory
 //Inventory Class
-//December 11, 2022
 import java.util.*;
 public class Inventory implements Comparable <Inventory> { //Inventory class
    String name; //Attributes
